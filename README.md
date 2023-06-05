@@ -16,6 +16,6 @@
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yJefim&layout=compact)](https://github.com/yJefim/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yJefim&layout=compact&langs_count=10&bg_color=00000000&text_color=ffffff&title_color=16a085)
 
 “Succes is the sum of small efforts – repeated day in and day out.”
